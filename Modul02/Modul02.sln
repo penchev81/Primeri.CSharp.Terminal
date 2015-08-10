@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul02", "Modul02\Modul02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFrom CommandLine", "ReadFrom CommandLine\ReadFrom CommandLine.csproj", "{6B2E1569-4409-44B9-9C14-ABE57BF33147}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Table Project", "Table Project\Table Project.csproj", "{1FAB152F-093F-4276-A68B-3099BD5B993E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,16 @@ Global
 		{6B2E1569-4409-44B9-9C14-ABE57BF33147}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{6B2E1569-4409-44B9-9C14-ABE57BF33147}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{6B2E1569-4409-44B9-9C14-ABE57BF33147}.Release|x86.ActiveCfg = Release|Any CPU
+		{1FAB152F-093F-4276-A68B-3099BD5B993E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FAB152F-093F-4276-A68B-3099BD5B993E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FAB152F-093F-4276-A68B-3099BD5B993E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1FAB152F-093F-4276-A68B-3099BD5B993E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1FAB152F-093F-4276-A68B-3099BD5B993E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1FAB152F-093F-4276-A68B-3099BD5B993E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FAB152F-093F-4276-A68B-3099BD5B993E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FAB152F-093F-4276-A68B-3099BD5B993E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1FAB152F-093F-4276-A68B-3099BD5B993E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1FAB152F-093F-4276-A68B-3099BD5B993E}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
