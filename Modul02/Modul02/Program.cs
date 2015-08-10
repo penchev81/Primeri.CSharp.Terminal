@@ -1,4 +1,6 @@
 ﻿using System;
+using System.ComponentModel;
+using System.Runtime.InteropServices;
 
 namespace Modul02
 {
@@ -7,11 +9,21 @@ namespace Modul02
 		public static void Main (string[] args)
 		{
 			//дефиниране на променливи
+		    int a = 0, b = 0;
+		    int sum = 0;
 
-			//Събиране на Числа
+		    //Събиране на Числа
+		    a = 55;
+		    b = 10;
 
-			//Писане в конзола
+		    sum = a + b;
 
+		    //Писане в конзола
+		    Console.Write(a);
+		    Console.Write(" + ");
+		    Console.Write(b);
+            Console.Write(" = ");
+		    Console.WriteLine(sum);  
 
 		}
 	}
