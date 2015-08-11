@@ -3,3 +3,4 @@ D:\@aula\primeri.csharp.terminal\Modul02\Table Project\bin\Debug\Table Project.e
 D:\@aula\primeri.csharp.terminal\Modul02\Table Project\bin\Debug\Table Project.pdb
 D:\@aula\primeri.csharp.terminal\Modul02\Table Project\obj\Debug\Table Project.exe
 D:\@aula\primeri.csharp.terminal\Modul02\Table Project\obj\Debug\Table Project.pdb
+D:\@aula\primeri.csharp.terminal\Modul02\Table Project\obj\Debug\Table Project.csprojResolveAssemblyReference.cache

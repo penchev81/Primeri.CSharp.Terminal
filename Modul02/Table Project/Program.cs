@@ -15,7 +15,7 @@ namespace Table_Project
         static void Main(string[] args)
         {
             //Дефиниране на таблица
-            string[,] table = new string[2,3];
+            string[,] table = new string[3,4];
 
             //Въвеждане на първи ред
             table[0, (int) ti.ime] = "Иван";
@@ -28,6 +28,13 @@ namespace Table_Project
             table[1, (int) ti.ime] = "Мартин";
             table[1, (int) ti.familia] = "Пенчев";
             table[1, (int) ti.godini] = "33";
+
+
+            //въвеждане на трети ред
+            table[2, (int) ti.ime] = "Руси";
+            table[2, (int) ti.familia] = "Цолов";
+            table[2, (int) ti.godini] = "33";
+
 
 
 
