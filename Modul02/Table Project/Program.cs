@@ -44,10 +44,13 @@ namespace Table_Project
             int _index = Convert.ToInt32(Console.ReadLine()) - 1;
 
 
-            Console.WriteLine((table[_index,(int) ti.ime])[0]+ ". "+
+            Console.WriteLine(
+                (table[_index, (int) ti.ime])[0] + ". " +
                 table[_index,(int)ti.familia]+", "+
                 table[_index,(int)ti.godini]+" г.");
-            
+
+            Console.ReadKey();
+
         }
     }
 }
