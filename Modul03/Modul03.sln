@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul03", "Modul03\Modul03.csproj", "{5CD51E2B-69E0-4D6C-A151-B5A7945FD490}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolExplore", "BoolExplore\BoolExplore.csproj", "{6E593040-C168-440D-8EDE-DF6EEEBE1B4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5CD51E2B-69E0-4D6C-A151-B5A7945FD490}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CD51E2B-69E0-4D6C-A151-B5A7945FD490}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CD51E2B-69E0-4D6C-A151-B5A7945FD490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E593040-C168-440D-8EDE-DF6EEEBE1B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E593040-C168-440D-8EDE-DF6EEEBE1B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E593040-C168-440D-8EDE-DF6EEEBE1B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E593040-C168-440D-8EDE-DF6EEEBE1B4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
