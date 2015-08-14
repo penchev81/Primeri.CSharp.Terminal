@@ -21,8 +21,14 @@ namespace Switch
 
             bool _check01 = int.TryParse(_input, out _ui);
 
+
+            //Използване на условно присвояване.
+
             //_ui = (_ui <= _i.Length) ? _ui : 3;
             //_ui = (_ui > 0) ? _ui : 1;
+
+
+            // Използване наSwitc
 
             switch (_ui)
             {
