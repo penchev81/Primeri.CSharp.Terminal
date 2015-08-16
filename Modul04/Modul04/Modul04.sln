@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhile", "DoWhile\DoWhile.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamplesDoWhile", "ExamplesDoWhile\ExamplesDoWhile.csproj", "{97B7ED6E-D592-437A-8493-83A149ADDBB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{5F144A5C-6EF3-405E-9165-4A09B5C14A77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{97B7ED6E-D592-437A-8493-83A149ADDBB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97B7ED6E-D592-437A-8493-83A149ADDBB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97B7ED6E-D592-437A-8493-83A149ADDBB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F144A5C-6EF3-405E-9165-4A09B5C14A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F144A5C-6EF3-405E-9165-4A09B5C14A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F144A5C-6EF3-405E-9165-4A09B5C14A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F144A5C-6EF3-405E-9165-4A09B5C14A77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

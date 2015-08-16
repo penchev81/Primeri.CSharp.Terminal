@@ -13,11 +13,21 @@ namespace ExamplesDoWhile
             //Дефиниции
             string _userinput = "";
 
+            //List
+
             //Потребителски вход
             do
             {
-                Console.Write("?");
+                Console.Write("? ");
                 _userinput = Console.ReadLine();
+
+            //Добавяне на Стойности
+ 
+            //Преглед на List
+                
+            //Размер на List
+
+
             } while (_userinput != "exit");
 
         }
