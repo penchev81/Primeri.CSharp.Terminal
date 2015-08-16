@@ -28,12 +28,13 @@ namespace While
 
 
             int i = 0;
-            while (i<_table.Length /3)
+            while (i < _table.Length / 3)
             {
                 Console.WriteLine
-                    (_table[i,0].PadRight(12) + 
-                     _table[i,1].PadRight(12) +
-                     _table[i,2].PadRight(12));
+                    (_table[i, 0].PadRight(12) +
+                        _table[i, 1].PadRight(12) +
+                        _table[i, 2].PadRight(12)
+                        );
                 i++;
             }
         }
